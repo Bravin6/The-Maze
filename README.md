@@ -2,6 +2,9 @@
 
 The Maze is a 3D maze game created using raycasting and SDL2. The goal of this project is to create a simple but functional 3D game engine that renders a maze environment and allows the player to navigate through it. This project is a part of the Holberton School curriculum.
 
+![image](https://github.com/Bravin6/The-Maze/assets/136716286/86f86a77-2960-4f6c-9285-d51c8b8bb957)
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
